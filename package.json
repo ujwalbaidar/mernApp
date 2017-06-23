@@ -1,0 +1,20 @@
+{
+  "name": "mernApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujwalbaidar/mernApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujwalbaidar/mernApp/issues"
+  },
+  "homepage": "https://github.com/ujwalbaidar/mernApp#readme"
+}
