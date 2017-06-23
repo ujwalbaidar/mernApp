@@ -1,0 +1,15 @@
+{
+	"db": "",
+	"host": "localhost",
+	"port": 3000,
+	"dbURI": "mongodb://localhost/mernDB",
+	"loginPassword": {
+		"algorithm":"sha512",
+		"secretKey": "loveNepal!!"
+	},
+	"jwtAuth": {
+		"secretKey":"iLoveNepal",
+		"expireTime": "1d",
+		"algorithm": "HS256"
+	}
+}
